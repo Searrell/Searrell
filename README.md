@@ -3,7 +3,7 @@
 # 💫 About Me:
 👩🏻‍💻 Software Engineer trying to make fun and interesting things<br>
 👩🏻‍🎓 Studied Computer Science at the Ulster University, Northern Ireland<br>
-🌱 I’m currently learning lambda functions in python<br>
+🌱 I’m currently learning evrything in python<br>
 
 
 ## 🌐 Socials:
