@@ -1,3 +1,4 @@
+<img align="center" src="https://github.com/Searrell/Searrell/blob/main/hello-world.gif" width="100%" />
 
 <p align="center">
     <b><font> " Níl saoi gan locht. " </font></b>
