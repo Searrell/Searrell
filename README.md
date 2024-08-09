@@ -5,12 +5,13 @@
 </p>
 
 ```python
-#include <stdio.h>
+
 
 
      Name = "Sean"
      Degree = "Computer Science Engineering"
      Learning = ("Python", "AWS", "HTML", "CSS")
+     Proficient_In = ("HTML", "CSS", "Java Script")
 
      # GitHub-related information
      GitHubUsername = "Searrell";
