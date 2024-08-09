@@ -22,7 +22,7 @@
 <summary> ᴍᴏʀᴇ :
  </summary>
 <br>
-<img align="left" src="https://github.com/Searrell/Searrell/blob/main/Quagsire.png" width="85" /> 
+<img align="left" src="https://github.com/Searrell/Searrell/blob/main/Quagsire.png" width="100" height="150" style="margin-top: 20px;" /> 
     
 ```csharp
   ᴍʏ ᴄᴏɴꜰɪɢ
