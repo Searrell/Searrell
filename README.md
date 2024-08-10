@@ -26,7 +26,7 @@
 <img align="left" src="https://github.com/Searrell/Searrell/blob/main/Quagsire.png" width="100" height="150" style="margin-top: 20px;" /> 
     
 ```csharp
-  ᴍʏ ᴄᴏɴꜰɪɢ
+  ᴍʏ Setup
 ----------------
       OS   :  Windows / want to learn linux
       CPU  :  I7 9700k @5ghz
