@@ -8,7 +8,7 @@
 
 
 
-     Name = "Sean"
+     Name = "Seán"
      Degree = "Computer Science Engineering"
      Learning = ("Python", "AWS", "HTML", "CSS")
      Proficient_In = ("HTML", "CSS", "Java Script")
